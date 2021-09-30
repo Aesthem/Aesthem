@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aesthem
+- 👀 I’m interested in things
+- 🌱 I’m currently learning coding
